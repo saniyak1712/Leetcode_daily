@@ -1,5 +1,4 @@
 class Solution {
-
     int[] segMin, segMax, lazy;
     int n;
 
